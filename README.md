@@ -1,5 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+
+========================================
 Install Node/NPM
 
 curl -sL https://deb.nodesource.com/setup_12.x | sudo -E bash -
@@ -14,7 +16,7 @@ There are a few ways to get your files on to the server, I would suggest using G
 
 git clone yourproject.git
 
-
+=======================================
 ## Available Scripts
 
 In the project directory, you can run:
